@@ -77,7 +77,7 @@ gcloud run deploy sql-talk --allow-unauthenticated --region us-central1 --servic
 
 - [Gemini 的函式呼叫文件](https://cloud.google.com/vertex-ai/docs/generative-ai/multimodal/function-calling?hl=zh-tw)
 - [如何使用 Gemini 中的函式呼叫與 API 互動的 Codelab](https://codelabs.developers.google.com/codelabs/gemini-function-calling?hl=zh-tw)
-- [使用 Gemini API 進行函式呼叫的範例筆記本](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/function-calling/intro_function_calling.ipynb)
+- [使用 Gemini API 進行函式呼叫的範例筆記本](https://github.com/doggy8088/generative-ai/blob/main/gemini/function-calling/intro_function_calling.zh.ipynb)
 
 
 

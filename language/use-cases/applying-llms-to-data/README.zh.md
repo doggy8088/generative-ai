@@ -6,13 +6,13 @@
 
 ## 目錄
 
-- [將 BigQuery 資料框與產生式 AI 搭配使用進行程式碼產生](bigquery_dataframes_llm_code_generation.ipynb)
-- [BigQuery 資料框 ML：藥物名稱產生](bigquery_dataframes_ml_drug_name_generation.ipynb)
-- [使用 Google AI 平台 LLM 與 BigQuery 中的資料](bigquery_ml_llm.ipynb)
+- [將 BigQuery 資料框與產生式 AI 搭配使用進行程式碼產生](bigquery_dataframes_llm_code_generation.zh.ipynb)
+- [BigQuery 資料框 ML：藥物名稱產生](bigquery_dataframes_ml_drug_name_generation.zh.ipynb)
+- [使用 Google AI 平台 LLM 與 BigQuery 中的資料](bigquery_ml_llm.zh.ipynb)
 
 ## 相關資訊
 
-- [如何使用 LangChain 🦜️🔗 BigQuery 資料載入器](../../orchestration/langchain/langchain_bigquery_data_loader.ipynb)
+- [如何使用 LangChain 🦜️🔗 BigQuery 資料載入器](../../orchestration/langchain/langchain_bigquery_data_loader.zh.ipynb)
 
 ## 資源
 

@@ -33,7 +33,7 @@ python [檢索器](https://python.langchain.com/docs/modules/data_connection/ret
 
 請注意：這些範例使用 Vertex AI 和 Vertex AI 檢索 API，它們是付費服務。
 
-有關如何提供協助、設定環境以及生成式 AI 和 Google 工具的概況說明，請參閱儲存庫根目錄中的 [README](../README.md)。
+有關如何提供協助、設定環境以及生成式 AI 和 Google 工具的概況說明，請參閱儲存庫根目錄中的 [README](../README.zh.md)。
 
 ```text
 檢索增強產生/     - 此目錄

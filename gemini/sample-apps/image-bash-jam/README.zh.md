@@ -16,7 +16,7 @@
 
 ```bash
 cd
-git clone  https://github.com/GoogleCloudPlatform/generative-ai
+git clone  https://github.com/doggy8088/generative-ai
 cd generative-ai/gemini/sample-apps/image-bash-jam/
 
 # [選用] 如果您喜歡有顏色的 shell，請這麼做。如果沒有，指令碼會偵測其不存在，並只會以 shell 的預設顏色顯示 (請參閱 `_common.sh` 中的 `_lolcat`)。

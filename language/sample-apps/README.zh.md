@@ -8,7 +8,7 @@
 
 ## 設定環境
 
-我們會在 [Cloud Shell](https://cloud.google.com/shell) 中提供設定環境的說明。在執行任何範例應用程式之前，請務必依照 [SETUP.md](SETUP.md) 中的說明進行操作。
+我們會在 [Cloud Shell](https://cloud.google.com/shell) 中提供設定環境的說明。在執行任何範例應用程式之前，請務必依照 [SETUP.md](SETUP.zh.md) 中的說明進行操作。
 
 ## 範例應用程式
 
@@ -31,7 +31,7 @@
 
 - 按一下「新增應用程式」
 - 選擇「自訂應用程式」
-- 當要求提供 Git 存放庫網址時，請輸入這個存放庫的網址：[https://github.com/GoogleCloudPlatform/generative-ai/language/sample-apps](https://github.com/GoogleCloudPlatform/generative-ai/language/sample-apps)
+- 當要求提供 Git 存放庫網址時，請輸入這個存放庫的網址：[https://github.com/doggy8088/generative-ai/language/sample-apps](https://github.com/doggy8088/generative-ai/language/sample-apps)
 - 您會看到所有專案。選取您選擇的一個專案。
 - 完成其他步驟將專案匯入 Visual Studio Code。
 

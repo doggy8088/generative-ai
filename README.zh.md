@@ -162,11 +162,11 @@
 
 ## 投稿
 
-歡迎投稿！請參閱 [貢獻指南](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/CONTRIBUTING.md)。
+歡迎投稿！請參閱 [貢獻指南](https://github.com/doggy8088/generative-ai/blob/main/CONTRIBUTING.zh.md)。
 
 ## 尋求協助
 
-請使用 [問題頁面](https://github.com/GoogleCloudPlatform/generative-ai/issues) 提供建議、意見回饋或提交錯誤報告。
+請使用 [問題頁面](https://github.com/doggy8088/generative-ai/issues) 提供建議、意見回饋或提交錯誤報告。
 
 ## 免責聲明
 

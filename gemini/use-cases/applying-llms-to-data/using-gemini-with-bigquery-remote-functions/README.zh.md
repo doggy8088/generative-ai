@@ -42,7 +42,7 @@
 
 ```shell
   gcloud config set project <PROJECT ID>
-  git clone  https://github.com/GoogleCloudPlatform/generative-ai/
+  git clone  https://github.com/doggy8088/generative-ai/
   cd ./generative-ai/gemini/use-cases/applying-llms-to-data/using-gemini-with-bigquery-remote-functions
   ```
 
@@ -171,7 +171,7 @@ Terraform 輸出中也會列出你需要的其他資訊，如下：
 
 你可以編輯已部署的 `gemini-bq-demo-image` 來執行此動作。按一下 Function Details 頁面頂部的編輯按鈕，然後按一下下一步以查看內嵌編輯器。變更 `content` 變數的值，以告訴 Gemini 該如何處理你的影像，然後按一下部署。
 
-查看 [此範例筆記本](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/intro_multimodal_use_cases.ipynb) 來獲得靈感並取得想法，看看你可以要求 Gemini 對影像執行哪些操作。
+查看 [此範例筆記本](https://github.com/doggy8088/generative-ai/blob/main/gemini/use-cases/intro_multimodal_use_cases.zh.ipynb) 來獲得靈感並取得想法，看看你可以要求 Gemini 對影像執行哪些操作。
 
 1. 更新 `image_query_remote_function_sp` 儲存程序並執行
 

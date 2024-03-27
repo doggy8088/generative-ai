@@ -10,7 +10,7 @@
 
 ## 建立應用程式並將其部署到 Cloud Run
 
-> 注意：**在你繼續之前，請務必按照 [SETUP.md](../SETUP.md) 中的說明進行操作。**
+> 注意：**在你繼續之前，請務必按照 [SETUP.md](../SETUP.zh.md) 中的說明進行操作。**
 此外，請務必複製此存放庫並將其目前處於 ```chat-flask-cloudrun``` 資料夾中。這應該是你在接下來命令的實際工作目錄。
 
 若要將 Flask 應用程式部署在 [Cloud Run](https://cloud.google.com/run/docs/quickstarts/deploy-container) 中，我們需要執行下列步驟：

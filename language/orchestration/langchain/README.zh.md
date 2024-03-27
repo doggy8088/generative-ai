@@ -6,16 +6,16 @@
 
 ## 目錄
 
-- [入門LangChain 🦜️🔗 + Vertex AI PaLM API](intro_langchain_palm_api.ipynb)
-- [如何使用 LangChain 🦜️🔗 BigQuery 資料載入程式](langchain_bigquery_data_loader.ipynb)
+- [入門LangChain 🦜️🔗 + Vertex AI PaLM API](intro_langchain_palm_api.zh.ipynb)
+- [如何使用 LangChain 🦜️🔗 BigQuery 資料載入程式](langchain_bigquery_data_loader.zh.ipynb)
 
 ## 相關
 
-- [使用 LangChain 🦜🔗 摘要大型文件](../../use-cases/document-summarization/summarization_large_documents_langchain.ipynb)
-- [使用 LangChain 🦜🔗 對大型文件進行問答](../../use-cases/document-qa/question_answering_documents_langchain.ipynb)
-- [使用 LangChain 🦜️🔗 和 Vertex AI 比對引擎對文件進行問答](../../use-cases/document-qa/question_answering_documents_langchain_matching_engine.ipynb)
-- [GroceryBot，一個樣本雜貨和食譜助手 - RAG + ReAct](../../use-cases/chatbots/grocerybot_assistant.ipynb)
-- [DescriptionGen：使用 LangChain 🦜🔗 為零售業產生符合 SEO 最佳化的產品說明](../../use-cases/description-generation/product_description_generator_attributes_to_text.ipynb)
+- [使用 LangChain 🦜🔗 摘要大型文件](../../use-cases/document-summarization/summarization_large_documents_langchain.zh.ipynb)
+- [使用 LangChain 🦜🔗 對大型文件進行問答](../../use-cases/document-qa/question_answering_documents_langchain.zh.ipynb)
+- [使用 LangChain 🦜️🔗 和 Vertex AI 比對引擎對文件進行問答](../../use-cases/document-qa/question_answering_documents_langchain_matching_engine.zh.ipynb)
+- [GroceryBot，一個樣本雜貨和食譜助手 - RAG + ReAct](../../use-cases/chatbots/grocerybot_assistant.zh.ipynb)
+- [DescriptionGen：使用 LangChain 🦜🔗 為零售業產生符合 SEO 最佳化的產品說明](../../use-cases/description-generation/product_description_generator_attributes_to_text.zh.ipynb)
 
 
 

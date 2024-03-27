@@ -6,7 +6,7 @@
 
 ## 環境設定
 
-我們在 [Cloud Shell](https://cloud.google.com/shell) 中提供設定您環境的說明。在執行任何範例應用程式之前，請確保您已按照 [SETUP.md](SETUP.md) 中的指示操作。
+我們在 [Cloud Shell](https://cloud.google.com/shell) 中提供設定您環境的說明。在執行任何範例應用程式之前，請確保您已按照 [SETUP.md](SETUP.zh.md) 中的指示操作。
 
 ## 範例應用程式
 

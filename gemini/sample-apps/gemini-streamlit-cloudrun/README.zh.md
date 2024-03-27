@@ -14,7 +14,7 @@
 
 ## 在本地執行應用程式 (在 Cloud Shell 中)
 
-> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.md) 中的說明。**
+> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.zh.md) 中的說明。**
 另外，請務必複製這個存放庫，而且目前位於 `gemini-streamlit-cloudrun` 資料夾中。此資料夾應為其他命令的目前有效工作目錄。
 
 若要在本地執行 Streamlit Application (在 Cloud Shell 中)，我們需要執行下列步驟：
@@ -60,7 +60,7 @@
 
 ## 建立並將應用部署到 Cloud Run
 
-> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.md) 中的說明。**
+> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.zh.md) 中的說明。**
 另外，請務必複製這個存放庫，而且目前位於 `gemini-streamlit-cloudrun` 資料夾中。此資料夾應為其他命令的目前有效工作目錄。
 
 若要在 [Cloud Run](https://cloud.google.com/run/docs/quickstarts/deploy-container) 中部署 Streamlit Application，我們需要執行下列步驟：

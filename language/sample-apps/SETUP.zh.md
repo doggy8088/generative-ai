@@ -93,7 +93,7 @@ gcloud services enable cloudbuild.googleapis.com cloudfunctions.googleapis.com r
 我們已將本專案所需的所有範例放入 `sample_apps` 資料夾的 Git 儲存庫中。使用下列指令在 Cloud Shell 中克隆儲存庫：
 
 ```bash
-git clone https://github.com/GoogleCloudPlatform/generative-ai.git
+git clone https://github.com/doggy8088/generative-ai.git
 ```
 
 

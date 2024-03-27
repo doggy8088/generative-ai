@@ -10,7 +10,7 @@
 
 ## 建置並將應用程式部署到雲端執行序
 
-> 注意：**請在繼續之前，務必按照 [SETUP.md](../SETUP.md) 中的說明操作。**
+> 注意：**請在繼續之前，務必按照 [SETUP.md](../SETUP.zh.md) 中的說明操作。**
 另外，請確認您已複製這個存放庫，並且目前位於 ```chat-gradio``` 資料夾中。在進行其他指令時，此資料夾應為您的目前工作目錄。
 
 若要在 [雲端執行序](https://cloud.google.com/run/docs/quickstarts/deploy-container) 中部署 Gradio 應用程式，我們需要執行下列步驟：

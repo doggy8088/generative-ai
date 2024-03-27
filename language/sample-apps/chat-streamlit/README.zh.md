@@ -10,7 +10,7 @@
 
 ## 建置並將應用程式部署到 Cloud Run
 
-> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.md) 中的說明。**
+> 注意：**在繼續之前，請務必遵循 [SETUP.md](../SETUP.zh.md) 中的說明。**
 此外，請務必複製這個儲存庫，目前在 ```chat-streamlit``` 中。這應該是您在其他指令中的主要工作目錄。
 
 若要將 Streamlit 應用程式部署在 [Cloud Run](https://cloud.google.com/run/docs/quickstarts/deploy-container) 中，我們需要執行下列步驟：

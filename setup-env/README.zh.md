@@ -55,7 +55,7 @@ vertexai.init(project=PROJECT_ID, location=LOCATION)
 啟動筆記本執行個體後，您可以在 JupyterLab 環境中複製此儲存庫。若要執行此動作，請在 JupyterLab 中開啟終端機。接著執行下列指令，將儲存庫複製到您的執行個體中：
 
 ```sh
-git clone https://github.com/GoogleCloudPlatform/generative-ai.git
+git clone https://github.com/doggy8088/generative-ai.git
 ```
 
 #### 本機開發

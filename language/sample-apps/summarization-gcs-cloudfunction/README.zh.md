@@ -10,7 +10,7 @@
 - 使用提示字串呼叫 PaLM Text Bison 模型以摘要內容。
 - 將摘要資料寫入另一個 Google Cloud Storage (GCS) 儲存區。
 
-> 注意：**在繼續之前，請務必按照 [SETUP.md](../SETUP.md) 中的說明進行。**
+> 注意：**在繼續之前，請務必按照 [SETUP.md](../SETUP.zh.md) 中的說明進行。**
 此外，請確保您已複製這個存放庫並目前位於 ```summarization-gcs-cloudfunction``` 資料夾。在接下來的指令中，此資料夾應為您目前的有效工作目錄。
 
 ## 所需的環境變數
@@ -87,7 +87,7 @@ gsutil mb -l $GCP_REGION gs://"$BUCKET_NAME"-summaries
 由於此雲端函式是使用 GCS 觸發器進行部署，因此您需要執行下列步驟才能看到完整流程：
 
 1. 確保您已建立以下 GCS 儲存空間：`$BUCKET_NAME` 和 `$BUCKET_NAME-summaries`。
-2. 上傳包含文字的檔案 (已提供範例檔案 [story.md](story.md)) 到 `$BUCKET_NAME` 儲存空間。
+2. 上傳包含文字的檔案 (已提供範例檔案 [story.md](story.zh.md)) 到 `$BUCKET_NAME` 儲存空間。
 3. 此時應觸發 `summarizeArticles` 函式，在幾秒內，您應該會看到在 `$BUCKET-summaries` 儲存空間中建立的 `story.md` (摘要形式) 檔案。
 
 
